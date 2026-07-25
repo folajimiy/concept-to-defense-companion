@@ -1,8 +1,10 @@
 # Semester Plan — Appendix A.10
 
-Every deliverable is a thing that exists, not an activity. Invariant: the
+Every deliverable is a thing that exists, not an activity. Strong default: the
 must-set closes by the **midpoint**, because the second half belongs to
-evaluation and writing. Shift weeks to fit your calendar.
+evaluation and writing. Where hard dependencies make that impossible, agree in
+writing what *will* be demonstrable at midpoint and protect the evaluation
+window at the far end. Shift weeks to fit your calendar.
 
 | Milestone | Week | Deliverable | Gate or dependency |
 |---|---|---|---|
