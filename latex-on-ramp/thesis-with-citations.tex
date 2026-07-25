@@ -1,0 +1,24 @@
+% The minimal thesis (Appendix F.1) extended with the citation setup of
+% Appendix F.4. Build: latexmk -pdf thesis-with-citations.tex
+\documentclass[11pt]{report}  % has \chapter (article does not)
+\usepackage[utf8]{inputenc}   % optional today
+\usepackage[T1]{fontenc}      % correct hyphenation and accents
+\usepackage{graphicx}         % \includegraphics
+\usepackage{amsmath}          % better math
+\usepackage[round]{natbib}    % in the preamble
+
+\title{My Thesis Title}
+\author{Your Name}
+
+\begin{document}
+\maketitle
+\tableofcontents
+
+\chapter{Introduction}\label{ch:intro}
+Deep learning reshaped the field \citep{lecun2015deep}.
+\citet{lecun2015deep} argue that\ldots{}
+As shown in Chapter~\ref{ch:intro}, cross-references work too.
+
+\bibliographystyle{plainnat}  % just before \end{document}
+\bibliography{references}     % no .bib extension here
+\end{document}
