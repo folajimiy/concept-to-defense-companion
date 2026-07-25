@@ -12,11 +12,9 @@ Cybersecurity* (Longe-Folajimi, Deligiannidis & Othman).
 | `latex-on-ramp/thesis-with-citations.tex` | The minimal thesis extended with natbib citations and cross-references | Appendices F.2, F.4 |
 | `latex-on-ramp/references.bib` | The sample bibliography file | Appendix F.4 |
 | `latex-on-ramp/build.md` | The build pipeline (latexmk-first) | Appendix F.5 |
+| `templates/` | Editable fill-in versions of every Appendix A template: proposal, feasibility triage, literature matrix, risk register, ADR, claims–evidence table, team charter, contribution log, AI-use disclosure, semester plan | Appendix A |
 
-The fill-in templates (proposal, feasibility triage, literature matrix, risk
-register, ADR, claims–evidence table, team charter, contribution log, AI-use
-disclosure, semester plan) are in **Appendix A** of the book; the
-self-assessment rubrics are in **Appendix B**.
+The self-assessment rubrics are in **Appendix B** of the book.
 
 ## Using the LaTeX samples
 
