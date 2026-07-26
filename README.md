@@ -13,6 +13,7 @@ Cybersecurity* (Longe-Folajimi, Deligiannidis & Othman).
 | `latex-on-ramp/references.bib` | The sample bibliography file | Appendix F.4 |
 | `latex-on-ramp/build.md` | The build pipeline (latexmk-first) | Appendix F.5 |
 | `templates/` | Editable fill-in versions of every Appendix A template: proposal, feasibility triage, literature matrix, risk register, ADR, claims–evidence table, team charter, contribution log, AI-use disclosure, semester plan | Appendix A |
+| `figures/` | All eight book figures as 600 dpi PNGs (lifecycle ribbon, claims–evidence chain, semester plan, architecture views, vertical slices, evaluation-method selector, intro–conclusion mirror, defense time dial) — free to reuse in slides and course materials under the repository license | Figures 1.1–8.1 |
 
 The self-assessment rubrics are in **Appendix B** of the book.
 
