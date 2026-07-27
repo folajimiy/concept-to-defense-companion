@@ -9,9 +9,10 @@ Cybersecurity* (Longe-Folajimi, Deligiannidis & Othman).
 | Path | What it is | Book reference |
 |---|---|---|
 | `latex-on-ramp/thesis.tex` | The smallest thesis document that compiles — **identical to the printed listing** | Appendix F.1 |
-| `latex-on-ramp/thesis-with-citations.tex` | The minimal thesis extended with natbib citations and cross-references | Appendices F.2, F.4 |
-| `latex-on-ramp/references.bib` | The sample bibliography file | Appendix F.4 |
-| `latex-on-ramp/build.md` | The build pipeline (latexmk-first) | Appendix F.5 |
+| `latex-on-ramp/thesis-with-citations.tex` | The minimal thesis extended with natbib citations and cross-references | Appendix F.2 |
+| `latex-on-ramp/references.bib` | The sample bibliography file | Appendix F.2 |
+| `latex-on-ramp/build.md` | The build pipeline (latexmk-first) | Appendix F.3 |
+| `latex-on-ramp/extended-guide.md` | **The material deliberately kept out of print**: full worked examples of cross-references, floats, and citations; build tooling notes; editor setup; how to diagnose a build that used to work | extends Appendix F |
 | `templates/` | Editable fill-in versions of every Appendix A template: proposal, feasibility triage, literature matrix, risk register, ADR, claims–evidence table, team charter, contribution log, AI-use disclosure, semester plan | Appendix A |
 | `figures/` | All eight book figures as 600 dpi PNGs (lifecycle ribbon, claims–evidence chain, semester plan, architecture views, vertical slices, evaluation-method selector, intro–conclusion mirror, defense time dial) — free to reuse in slides and course materials under the repository license | Figures 1.1–8.1 |
 
