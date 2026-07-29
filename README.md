@@ -1,8 +1,8 @@
 # Computing Projects from Concept to Defense — Companion Repository
 
 Code samples and starter files accompanying *Computing Projects from Concept to
-Defense: A Guide to Capstone Projects and Theses in Software, AI, and
-Cybersecurity* (Longe-Folajimi, Deligiannidis & Othman).
+Defense: A Guide to Capstone Projects and Theses in Software, AI,
+Cybersecurity, and Related Fields* (Longe-Folajimi, Deligiannidis & Othman).
 
 ## Contents
 
