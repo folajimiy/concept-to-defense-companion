@@ -1,4 +1,4 @@
-# Building (Appendix F.5)
+# Building (Appendix E.3)
 
 Day-to-day, one command does everything:
 
