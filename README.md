@@ -17,7 +17,7 @@ Cybersecurity, and Related Fields* (Longe-Folajimi, Deligiannidis & Othman).
 | `templates/master-checklists.md` | **Printable runbook**: every end-of-chapter checklist compiled into one per-stage tick-list (52 items, 8 stages). Lives here rather than in print, so the book does not carry the same lists twice | end-of-chapter checklists |
 | `figures/` | All eight book figures as 600 dpi PNGs (lifecycle ribbon, claims–evidence chain, semester plan, architecture views, vertical slices, evaluation-method selector, intro–conclusion mirror, defense time dial) — free to reuse in slides and course materials under the repository license | Figures 1.1–8.1 |
 
-The self-assessment rubrics are in **Appendix B** of the book.
+The self-assessment diagnostics are in **Appendix B** of the book.
 
 ## Using the LaTeX samples
 
