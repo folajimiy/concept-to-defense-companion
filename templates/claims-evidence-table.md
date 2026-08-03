@@ -10,3 +10,20 @@ standard, incumbent system, or pilot) — never invented to be beatable.
 | | | |
 | | | |
 | | | |
+
+The three columns are the spine. For each row, also record (in a notes column
+or an attached sheet):
+
+- **Operational definition** — what exactly counts as a "booking", an
+  "error", a "user" in this claim.
+- **Evidence source** — dataset, participant pool, or testbed, and whether
+  access is confirmed.
+- **Comparator / baseline** — what the result will be judged against.
+- **Threshold** — what counts as success, and why that threshold is
+  defensible rather than conjured.
+- **Analysis procedure** — the statistic or coding approach, chosen before
+  the data arrive.
+- **Main validity threat** — the strongest objection to this row, and the
+  design choice that answers it.
+- **Status / verdict** — supported · partially supported · not supported ·
+  dropped. Keep dropped claims visible rather than deleting them.
