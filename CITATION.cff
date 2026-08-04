@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use these templates or code samples, please cite the book."
+title: "Computing Projects from Concept to Defense — Companion Repository"
+type: software
+license: MIT
+authors:
+  - family-names: Longe-Folajimi
+    given-names: Yetunde
+    affiliation: "School of Computing and Data Science, Wentworth Institute of Technology"
+  - family-names: Deligiannidis
+    given-names: Leonidas
+    affiliation: "School of Computing and Data Science, Wentworth Institute of Technology"
+  - family-names: Othman
+    given-names: Salem
+    affiliation: "School of Computing and Data Science, Wentworth Institute of Technology"
+repository-code: "https://github.com/folajimiy/concept-to-defense-companion"
+keywords:
+  - capstone projects
+  - thesis writing
+  - computing education
+  - LaTeX templates

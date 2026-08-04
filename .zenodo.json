@@ -1,0 +1,28 @@
+{
+  "title": "Computing Projects from Concept to Defense — Companion Repository",
+  "description": "Code samples, LaTeX starter files, and editable templates accompanying the book 'Computing Projects from Concept to Defense: A Guide to Capstone Projects and Theses in Software, AI, Cybersecurity, and Related Fields' (Longe-Folajimi, Deligiannidis & Othman, Springer).",
+  "upload_type": "software",
+  "license": "MIT",
+  "creators": [
+    {
+      "name": "Longe-Folajimi, Yetunde",
+      "affiliation": "School of Computing and Data Science, Wentworth Institute of Technology"
+    },
+    {
+      "name": "Deligiannidis, Leonidas",
+      "affiliation": "School of Computing and Data Science, Wentworth Institute of Technology"
+    },
+    {
+      "name": "Othman, Salem",
+      "affiliation": "School of Computing and Data Science, Wentworth Institute of Technology"
+    }
+  ],
+  "keywords": [
+    "capstone projects",
+    "thesis writing",
+    "computing education",
+    "LaTeX templates",
+    "project management",
+    "software engineering education"
+  ]
+}
