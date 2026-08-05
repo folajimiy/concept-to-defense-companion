@@ -1,5 +1,7 @@
 # Computing Projects from Concept to Defense — Companion Repository
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21809104.svg)](https://doi.org/10.5281/zenodo.21809104)
+
 Code samples and starter files accompanying *Computing Projects from Concept to
 Defense: A Guide to Capstone Projects and Theses in Software, AI,
 Cybersecurity, and Related Fields* (Longe-Folajimi, Deligiannidis & Othman).
@@ -28,3 +30,7 @@ latexmk -pdf thesis.tex     # one command; runs all needed passes
 
 Every sample compiles as printed in the book. If a build misbehaves, Appendix
 F.6 ("The Errors That Eat Your Last Night") is the debugging guide.
+
+## Citing this repository
+
+Version 1.0.0 is archived at <https://doi.org/10.5281/zenodo.21809105>; the concept DOI <https://doi.org/10.5281/zenodo.21809104> always resolves to the latest version. Citation metadata is in `CITATION.cff`.
